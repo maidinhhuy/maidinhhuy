@@ -18,6 +18,8 @@ https://nodejs.org/en/download
 Init project\
 https://dev.to/cristain/how-to-set-up-typescript-with-nodejs-and-express-2023-gf
 
+Config database\
+https://www.digitalocean.com/community/tutorials/how-to-use-sequelize-with-node-js-and-mysql
 ## Rest API
 - Server port 8000
 - Base address https://<HOST_NAME>:8000
